@@ -1,0 +1,5 @@
+Id,Company,Model,Product,Partnumber,CreateDate
+1,TestCompany,TestModel,TestProduct,TestPartnumber,2021-12-01
+2,TestCompany2,TestModel2,TestProduct2,TestPartnumber2,2022-12-02
+3,TestCompany3,TestModel3,TestProduct3,TestPartnumber3,2023-12-03
+4,TestCompany4,TestModel4,TestProduct4,TestPartnumber4,2024-12-04

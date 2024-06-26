@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "company": "TestCompany",
+        "model": "TestModel",
+        "product": "TestProduct",
+        "partnumber": "TestPartnumber",
+        "createdate": "2021-12-01"
+    },
+    {
+        "id": 2,
+        "company": "TestCompany2",
+        "model": "TestModel2",
+        "product": "TestProduct2",
+        "partnumber": "TestPartnumber2",
+        "createdate": "2022-12-02"
+    },
+    {
+        "id": 3,
+        "company": "TestCompany3",
+        "model": "TestModel3",
+        "product": "TestProduct3",
+        "partnumber": "TestPartnumber3",
+        "createdate": "2023-12-03"
+    },
+    {
+        "id": 4,
+        "company": "TestCompany4",
+        "model": "TestModel4",
+        "product": "TestProduct4",
+        "partnumber": "TestPartnumber4",
+        "createdate": "2024-12-04"
+    }
+]
